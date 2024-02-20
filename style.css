@@ -1,0 +1,22 @@
+body {
+    background-color:lightgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.buttons {
+    background-color:aqua;
+    
+}
+
+a:link {
+    color: purple;
+
+}
+
+a:hover {
+    color: lightpink;
+}
+
+a:visited {
+    color: black;
+}
